@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, my name is **Danila Serpokrylov**! 👋
+## I'm a *Front-End Developer* from Saint-Petersburg
+## Now I'm studying at the 3rd course in SUAI (State University of Aerospace Instrumentation)
+## My first react project: https://danyafaye.github.io/first-react-app-social-network/ // This is social network for developers who are looking for a job 
+## *📫 How to reach me*: 
+## Mobile phone number: +79377190559
+## Email: serpokrylov.danila@mail.ru
+![HTML](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=reactjs)
 
 <!--
 **danyafaye/danyafaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
