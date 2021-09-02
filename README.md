@@ -5,7 +5,7 @@
 #### *📫 How to reach me*: 
 #### Mobile phone number: +79377190559
 #### Email: serpokrylov.danila@mail.ru
-![HTML](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=reactjs)
+![ReactJs](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
 
 <!--
 **danyafaye/danyafaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
