@@ -7,11 +7,11 @@
 #### Email: serpokrylov.danila@mail.ru
 ## Languages and Technologies
 ![ReactJs](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=Redux)
-![CSS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=TypeScript)
+![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
 <!--
 **danyafaye/danyafaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
