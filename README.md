@@ -5,7 +5,7 @@
 ### The rest of the projects are test tasks
 ### Work experience:
 #### •Rockstone (HTML Developer) - 1 month (November - December 2021)
-#### •Sberbank (Trainee JS Developer) - 3 months (December 2021 - March 2022)
+#### •Sberbank (Trainee JS Developer) - working now from December 2021
 #### *📫 How to reach me*: 
 #### Mobile phone number: +79377190559
 #### Email: serpokrylov.danila@mail.ru
