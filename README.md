@@ -2,6 +2,10 @@
 ## I'm a *Front-End Developer* from Saint-Petersburg.
 ### Now I'm studying at the 3rd course in SUAI (State University of Aerospace Instrumentation)
 ### My first react project: https://danyafaye.github.io/first-react-app-social-network/ // This is social network for developers who are looking for a job // It may work with interruptions due to the server that I used for development
+### The rest of the projects are test tasks
+### Worked in:
+#### Rockstone (HTML Developer) - 1 month (November - December 2021)
+#### Sberbank (Trainee JS Developer) - 3 months (December 2021 - March 2022)
 #### *📫 How to reach me*: 
 #### Mobile phone number: +79377190559
 #### Email: serpokrylov.danila@mail.ru
