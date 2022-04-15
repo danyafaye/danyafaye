@@ -6,7 +6,7 @@
 ### The rest of the projects are test tasks
 ### Work experience:
 #### •Rockstone (HTML Developer) - 1 month (November - December 2021)
-#### •Sberbank (Trainee JS Developer) - 3 months (December 2021 - February 2022)
+#### •******** (Trainee JS Developer) - 3 months (December 2021 - February 2022)
 #### •CiPlay (Junior React.js Developer) - From April 2022 to the present
 #### *📫 How to reach me*: 
 #### Mobile phone number: +79377190559
