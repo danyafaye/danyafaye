@@ -1,6 +1,6 @@
-# Hi, my name is **Danila Serpokrylov, 20 years old**! 👋
+# Hi, my name is **Danila Serpokrylov, 21 years old**! 👋
 ## I'm a *Front-End Developer* from Saint-Petersburg.
-### Now I'm studying at the 3rd course in SUAI (State University of Aerospace Instrumentation)
+### Now I'm studying at the 4th course in SUAI (State University of Aerospace Instrumentation)
 ### My first react project: https://danyafaye.github.io/first-react-app-social-network/ // This is social network for developers who are looking for a job // It may work with interruptions due to the server that I used for development
 ### My second react project: https://github.com/danyafaye/eswap // This is a platform for the exchange / sale / rent of various items. Something like an analogue of avito
 ### The rest of the projects are test tasks
