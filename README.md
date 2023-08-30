@@ -1,6 +1,6 @@
-# Hi, my name is **Danila Serpokrylov, 21 years old**! 👋
+# Hi, my name is **Danila Serpokrylov, 22 years old**! 👋
 ### I'm a *Front-End Developer* from Saint-Petersburg.
-### Now I'm studying at the 4th course in SUAI (State University of Aerospace Instrumentation)
+### Now I'm studying at the 1th course of magistracy in SUAI (State University of Aerospace Instrumentation)
 ### My first react project: https://danyafaye.github.io/first-react-app-social-network/ // This is social network for developers who are looking for a job // It may work with interruptions due to the server that I used for development
 ### 🔭 My second react project: https://github.com/danyafaye/frendy // This is social web network with mainly using 3D models in your profile.
 ### The rest of the projects are test tasks
@@ -8,7 +8,7 @@
 #### •Rockstone (HTML Developer) - 1 month (November - December 2021)
 #### •Sberbank (Trainee JS Developer) - 3 months (December 2021 - February 2022)
 #### •CiPlay (Junior React.js Developer) - 6 months (April 2022 - September 2022)
-#### •Softline (Developer) - From September 2022 to the present
+#### •Softline (Middle Developer) - From September 2022 to the present
 #### *📫 How to reach me*: 
 #### Mobile phone number: +79377190559
 #### Email: serpokrylov.danila@mail.ru
