@@ -1,9 +1,5 @@
-# Hi, my name is **Danila Serpokrylov, 22 years old**! 👋
+# Hi, my name is **Danila Serpokrylov, 23 years old**! 👋
 ### I'm a *Front-End Developer* from Saint-Petersburg.
-### Now I'm studying at the 1st course of magistracy in SUAI (State University of Aerospace Instrumentation)
-### My first react project: https://danyafaye.github.io/first-react-app-social-network/ // This is social network for developers who are looking for a job // It may work with interruptions due to the server that I used for development
-### 🔭 My second react project: https://github.com/danyafaye/frendy // This is social web network with mainly using 3D models in your profile.
-### The rest of the projects are test tasks
 ### Work experience:
 #### •Rockstone (HTML Developer) - 1 month (November - December 2021)
 #### •Sberbank (Trainee JS Developer) - 3 months (December 2021 - February 2022)
