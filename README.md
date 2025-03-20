@@ -1,10 +1,5 @@
 # Hi, my name is **Danila Serpokrylov, 23 years old**! 👋
 ### I'm a *Front-End Developer* from Saint-Petersburg.
-### Work experience:
-#### •Rockstone (HTML Developer) - 1 month (November - December 2021)
-#### •Sberbank (Trainee JS Developer) - 3 months (December 2021 - February 2022)
-#### •CiPlay (Junior React.js Developer) - 6 months (April 2022 - September 2022)
-#### •Softline (Middle Developer) - From September 2022 to the present
 #### *📫 How to reach me*: 
 #### Mobile phone number: +79377190559
 #### Email: serpokrylov.danila@mail.ru
